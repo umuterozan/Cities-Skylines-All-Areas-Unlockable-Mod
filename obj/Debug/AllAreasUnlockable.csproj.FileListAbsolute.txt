@@ -1,0 +1,9 @@
+C:\Users\umut_\source\repos\AllAreasUnlockable\bin\Debug\AllAreasUnlockable.dll
+C:\Users\umut_\source\repos\AllAreasUnlockable\bin\Debug\AllAreasUnlockable.pdb
+C:\Users\umut_\source\repos\AllAreasUnlockable\bin\Debug\ICities.dll
+C:\Users\umut_\source\repos\AllAreasUnlockable\bin\Debug\UnityEngine.dll
+C:\Users\umut_\source\repos\AllAreasUnlockable\obj\Debug\AllAreasUnlockable.csproj.AssemblyReference.cache
+C:\Users\umut_\source\repos\AllAreasUnlockable\obj\Debug\AllAreasUnlockable.csproj.CoreCompileInputs.cache
+C:\Users\umut_\source\repos\AllAreasUnlockable\obj\Debug\AllAreasUnlockable.csproj.CopyComplete
+C:\Users\umut_\source\repos\AllAreasUnlockable\obj\Debug\AllAreasUnlockable.dll
+C:\Users\umut_\source\repos\AllAreasUnlockable\obj\Debug\AllAreasUnlockable.pdb
